@@ -1,0 +1,34 @@
+{
+  "name": "whatapp-sender",
+  "version": "1.0.0",
+  "description": "sender whats app use rest api https://developer.kirimwa.id/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aloisius82/whatapp-sender.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "sender",
+    "wa",
+    "kirimwa"
+  ],
+  "author": "Aloisius Dedy Cahyanto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aloisius82/whatapp-sender/issues"
+  },
+  "homepage": "https://github.com/aloisius82/whatapp-sender#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dateformat": "^5.0.3",
+    "dotenv": "^16.0.2",
+    "exceljs": "^4.3.0",
+    "jsonfile": "^6.1.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}

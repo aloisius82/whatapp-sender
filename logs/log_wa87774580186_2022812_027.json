@@ -1,0 +1,10 @@
+[
+  {
+    "id": "kwid-a8c2fa0d37944fee8493d9ecb73",
+    "status": "pending",
+    "message": "Message is pending and waiting to be processed.",
+    "meta": {
+      "location": "https://api.kirimwa.id/v1/messages/kwid-a8c2fa0d37944fee8493d9ecb73"
+    }
+  }
+]
